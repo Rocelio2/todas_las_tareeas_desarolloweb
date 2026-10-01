@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnalynsInfiltration/AnnalynsInfiltration.iml" filepath="$PROJECT_DIR$/AnnalynsInfiltration/AnnalynsInfiltration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BirdWatcher/BirdWatcher.iml" filepath="$PROJECT_DIR$/BirdWatcher/BirdWatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorConundrum/CalculatorConundrum.iml" filepath="$PROJECT_DIR$/CalculatorConundrum/CalculatorConundrum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cook Your Lasagna/Cook Your Lasagna.iml" filepath="$PROJECT_DIR$/Cook Your Lasagna/Cook Your Lasagna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elons Toy Car/Elons Toy Car.iml" filepath="$PROJECT_DIR$/Elons Toy Car/Elons Toy Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Karls Languages/Karls Languages.iml" filepath="$PROJECT_DIR$/Karls Languages/Karls Languages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogsLogsLogs/LogsLogsLogs.iml" filepath="$PROJECT_DIR$/LogsLogsLogs/LogsLogsLogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logslevel/Logslevel.iml" filepath="$PROJECT_DIR$/Logslevel/Logslevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaygroundSets/PlaygroundSets.iml" filepath="$PROJECT_DIR$/PlaygroundSets/PlaygroundSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remote Control Car Conundrum/Remote Control Car Conundrum.iml" filepath="$PROJECT_DIR$/Remote Control Car Conundrum/Remote Control Car Conundrum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secrets/Secrets.iml" filepath="$PROJECT_DIR$/Secrets/Secrets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SqueakyClean/SqueakyClean.iml" filepath="$PROJECT_DIR$/SqueakyClean/SqueakyClean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wizards and Warriors/Wizards and Warriors.iml" filepath="$PROJECT_DIR$/Wizards and Warriors/Wizards and Warriors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blackjack/blackjack.iml" filepath="$PROJECT_DIR$/blackjack/blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carss assamble/carss assamble.iml" filepath="$PROJECT_DIR$/carss assamble/carss assamble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tareas de desarollo web.iml" filepath="$PROJECT_DIR$/tareas de desarollo web.iml" />
+    </modules>
+  </component>
+</project>
